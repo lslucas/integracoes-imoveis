@@ -1,17 +1,12 @@
 {
-    "name": "lslucas/Integracoes-Imoveis",
+    "name": "lslucas/integracoes-imoveis",
     "description": "Integrações de Imóveis",
-    "license": "MIT",
-    "keywords": ["integracoes"],
+    "license": "GPL",
     "authors": [
         {
             "name": "Lucas Serafim",
             "email": "lslucas@gmail.com"
         }
     ],
-    "autoload": {
-        "psr-4": {
-            "lslucas\\IntegracoesImoveis\\": "src"
-        }
-    }
+    "require": {}
 }
