@@ -1,4 +1,4 @@
-<?php namespace lslucas\IntegracoesImoveis;
+<?php namespace IntegracoesImoveis;
 
 use \lslucas\Files;
 use \lslucas\Helpers;
